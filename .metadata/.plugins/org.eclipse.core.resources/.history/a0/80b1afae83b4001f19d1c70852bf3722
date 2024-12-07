@@ -1,0 +1,5 @@
+package com.zomato.authentication.service;
+
+public class UserService {
+
+}

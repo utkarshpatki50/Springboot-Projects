@@ -1,0 +1,5 @@
+package com.zomato.authentication.config;
+
+public class SecretKeyGenerator {
+
+}
